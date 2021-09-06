@@ -460,6 +460,7 @@ services section start from here
     padding-top: 70px;
     padding-bottom: 70px;
     background: #19A463;
+  display: none;
 }
 .find-section .swiper-container {
       width: 100%;
